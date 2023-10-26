@@ -6,11 +6,18 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 
 - 💻 Programming languages: Python, TypeScript, JavaScript, SQL, Go, Bash, Terraform
 - 🎞 Frameworks: FastApi, Vue, Nuxt, React
-- 🗣 Languages: English, Chinese Mandarin
-- 🤹 Other skills: AWS, Docker, Git / GitHub, Linux, Vim, databases (PostgreSQL MySQL)
+- 🗣 Languages: English, Mandarin Chinese
+- 🤹 Other skills: AWS, Docker, Git / GitHub, Linux, Vim, nginx, databases (PostgreSQL MySQL)
 
 # 🧮 Hobbies
 
-- 🏋️ Weightlifting
-- 🏃 Running
+- 💪 Weightlifting
+- 👟 Running
 - ⌨ Coding
+- 🃏 Card Magic
+
+# 🌟 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=radical" />
+</p>
