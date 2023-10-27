@@ -5,7 +5,7 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 # 🔨 Things I can do
 
 - 💻 Programming languages: Python, TypeScript, JavaScript, SQL, Go, Bash, Terraform
-- 🎞 Frameworks: FastApi, Vue, Nuxt, React
+- 🎞 Frameworks: FastAPI, Vue, Nuxt, React
 - 🗣 Languages: English, Mandarin Chinese
 - 🤹 Other skills: AWS, Docker, Git / GitHub, Linux, Vim, nginx, databases (PostgreSQL MySQL)
 
@@ -19,8 +19,8 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 # 🌟 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=radical" style="width:45vw"/>
-</p>
-<p align="center" >
-  <img src="https://leetcard.jacoblin.cool/Vincent679" style="width:45vw"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Vin-Cento&show_icons=true&theme=radical" style="width:45vw"/> -->
+    <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=radical" style="width:45vw; margin:1rem"/>
+    <img src="https://leetcard.jacoblin.cool/Vincent679" style="width:45vw;margin:1rem"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VinCento" style="width:45vw;margin:1rem"/>
 </p>
