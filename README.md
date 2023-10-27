@@ -19,5 +19,8 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 # 🌟 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=radical" style="width:45vw"/>
+</p>
+<p align="center" >
+  <img src="https://leetcard.jacoblin.cool/Vincent679" style="width:45vw"/>
 </p>
