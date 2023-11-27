@@ -2,7 +2,7 @@
 
 I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL/) 🌊 and a graduate of CU Boulder 🦬. I build and improve data pipeline 🏭 and do fullstack development 👨🏼‍💻.
 
-# 🔨 Things I can do
+# 🔨 Tools & Skills
 
 - 💻 Programming languages: Python, TypeScript, JavaScript, SQL, Go, Bash, Terraform
 - 🎞 Frameworks: FastAPI, Vue, Nuxt, React
