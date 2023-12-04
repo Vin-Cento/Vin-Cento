@@ -5,9 +5,9 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 # 🔨 Tools & Skills
 
 - 💻 Programming languages: Python, TypeScript, JavaScript, SQL, Go, Bash, Terraform
-- 🎞 Frameworks: FastAPI, Vue, Nuxt, React
+- 🪛 Tools: AWS, Docker, Git / GitHub, Linux, Vim, nginx, databases (PostgreSQL MySQL)
+- 🧑‍🍳 Frameworks: FastAPI, Vue, Nuxt, React
 - 🗣 Languages: English, Mandarin Chinese
-- 🤹 Other skills: AWS, Docker, Git / GitHub, Linux, Vim, nginx, databases (PostgreSQL MySQL)
 
 # 🧮 Hobbies
 
