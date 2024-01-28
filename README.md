@@ -18,9 +18,9 @@ I'm a Data Scientist 💿 at [CHL](https://www.erdc.usace.army.mil/Locations/CHL
 
 # 🌟 Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vin-Cento&show_icons=true&theme=tokyonight&hide_rank=true&layout=compact"/>
+<div style="flex inline-block">
     <img src="https://streak-stats.demolab.com/?user=Vin-Cento&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vin-Cento&show_icons=true&theme=tokyonight&layout=compact&hide_rank=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-Cento&theme=tokyonight&layout=compact"/>
     <img src="https://leetcard.jacoblin.cool/Vincent679?theme=nord"/>
-</p>
+</div>
